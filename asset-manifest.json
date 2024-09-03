@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/GoDrive/static/css/main.435552c4.css",
-    "main.js": "/GoDrive/static/js/main.af6c53df.js",
-    "index.html": "/GoDrive/index.html",
-    "main.435552c4.css.map": "/GoDrive/static/css/main.435552c4.css.map",
-    "main.af6c53df.js.map": "/GoDrive/static/js/main.af6c53df.js.map"
+    "main.css": "/Godrive/static/css/main.435552c4.css",
+    "main.js": "/Godrive/static/js/main.af6c53df.js",
+    "index.html": "/Godrive/index.html",
+    "main.435552c4.css.map": "/Godrive/static/css/main.435552c4.css.map",
+    "main.af6c53df.js.map": "/Godrive/static/js/main.af6c53df.js.map"
   },
   "entrypoints": [
     "static/css/main.435552c4.css",
